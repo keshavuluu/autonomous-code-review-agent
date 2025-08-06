@@ -18,7 +18,7 @@ setup(
     description="An intelligent, autonomous system that automatically reviews pull requests on GitHub",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/keshavuluu/Hash",
+    url="https://github.com/keshavuluu/autonomous-code-review-agent",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
